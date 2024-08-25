@@ -805,4 +805,9 @@ h6,
   #brands img{
     width: 100%;
     height: 100%;
+    
+  }
+  .gallery img {
+    max-height: 230px !important;
+    min-height: 230px !important;
   }
