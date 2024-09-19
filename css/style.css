@@ -741,6 +741,11 @@ h6,
     text-transform: capitalize;
     transition: .3s;
 }
+.fa-bars {
+    color: #022257;
+    background-color: #fff;
+    padding: 7px;
+}
 
 .footer .btn.btn-link::before {
     position: relative;
@@ -762,6 +767,20 @@ h6,
 }
 
 @media (max-width: 575.98px) { 
+    /* #scrollspyReview img {
+        width: 100%;
+        height: 100%;
+    } */
+     /* .collapsed > .navbar-brand img {
+        height: 90px !important;
+        margin-top: 0px !important;
+     } */
+     .page-header .container {
+        margin-top: 40px;
+     }
+     .nvmenu {
+        z-index: 999;
+     }
     .header-nav {
         /* position: relative !important; */
         /* height: 100vh !important; */
@@ -799,6 +818,7 @@ h6,
     }
     .navbar .navbar-nav .nav-link {
         color: #000;
+        width: 100%;
     }
   }
 
