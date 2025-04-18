@@ -1,99 +1,84 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2575.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-  </style>
-</head>
-<body>
-<p class="p1">&lt;urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"&gt;</p>
-<p class="p1">&lt;!--</p>
-<p class="p1"><span class="Apple-converted-space"> </span>created with Free Online Sitemap Generator www.xml-sitemaps.com<span class="Apple-converted-space"> </span></p>
-<p class="p1">--&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;1.00&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/about.html&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.80&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/services.html&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.80&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/gallery.html&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.80&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/contact.html&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.80&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/demolition-services-traverse-city.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/driveway-construction-services-traverse-city.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/foundation-excavation-services-traverse-city.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/drainage-installation-services.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/septic-system-installation-services.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/land-grading-leveling-services.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;</p>
-<p class="p1">https://marksexcavating.com/septic-system-repair-services.html</p>
-<p class="p1">&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:45+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;url&gt;</p>
-<p class="p1">&lt;loc&gt;https://marksexcavating.com/index.html&lt;/loc&gt;</p>
-<p class="p1">&lt;lastmod&gt;2024-10-04T15:54:46+00:00&lt;/lastmod&gt;</p>
-<p class="p1">&lt;priority&gt;0.64&lt;/priority&gt;</p>
-<p class="p1">&lt;/url&gt;</p>
-<p class="p1">&lt;/urlset&gt;</p>
-</body>
-</html>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+<url>
+<loc>https://marksexcavating.com/</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://marksexcavating.com/about.html</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://marksexcavating.com/services.html</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://marksexcavating.com/gallery.html</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://marksexcavating.com/contact.html</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/demolition-services-traverse-city.html
+</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/driveway-construction-services-traverse-city.html
+</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/foundation-excavation-services-traverse-city.html
+</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/drainage-installation-services.html
+</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/septic-system-installation-services.html
+</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/land-grading-leveling-services.html
+</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://marksexcavating.com/septic-system-repair-services.html
+</loc>
+<lastmod>2024-10-04T15:54:45+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://marksexcavating.com/index.html</loc>
+<lastmod>2024-10-04T15:54:46+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+</urlset>
